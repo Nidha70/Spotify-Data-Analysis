@@ -27,7 +27,7 @@ The project uses two datasets:
 - Artist ID
 - Artist genres
 
-# 🛠 Technologies Used
+# Technologies Used
 
 - Python
 - NumPy
@@ -66,6 +66,6 @@ pip install numpy pandas matplotlib seaborn
 
 3. Run the Python notebook or script to reproduce the analysis.
 
-# 📌 Summary
+# Summary
 
 This project demonstrates how **data analysis and visualization techniques** can be used to uncover insights from Spotify music data, including popularity trends, audio feature relationships, and genre patterns.
